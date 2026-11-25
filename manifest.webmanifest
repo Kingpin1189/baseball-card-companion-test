@@ -1,0 +1,1 @@
+{"name": "Baseball Card Companion", "short_name": "Card Companion", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f5f3ed", "theme_color": "#862b32", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
